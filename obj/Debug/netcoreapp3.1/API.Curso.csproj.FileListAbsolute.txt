@@ -19,3 +19,5 @@ C:\Users\Felipe\Desktop\API.Curso\obj\Debug\netcoreapp3.1\API.Curso.RazorTargetA
 C:\Users\Felipe\Desktop\API.Curso\obj\Debug\netcoreapp3.1\API.Curso.dll
 C:\Users\Felipe\Desktop\API.Curso\obj\Debug\netcoreapp3.1\API.Curso.pdb
 C:\Users\Felipe\Desktop\API.Curso\obj\Debug\netcoreapp3.1\API.Curso.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\API.Curso\bin\Debug\netcoreapp3.1\API.Curso.xml
+C:\Users\Felipe\Desktop\API.Curso\obj\Debug\netcoreapp3.1\API.Curso.MvcApplicationPartsAssemblyInfo.cs
